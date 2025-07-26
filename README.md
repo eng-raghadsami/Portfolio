@@ -1,6 +1,6 @@
 # 👩‍💻 Raghad Sami Abu Harbid | Full Stack Web Developer
 
-Welcome to my project portfolio! I’m a **Full Stack Web Developer** with solid experience in backend and frontend development, using technologies like PHP, Laravel, MySQL, and HTML/CSS/JavaScript. This portfolio includes selected projects showcasing both backend logic and UI functionality.
+Welcome to my project portfolio! I’m a **Full Stack Web Developer** experienced in both backend and frontend development using PHP, Laravel, MySQL, and modern web technologies. Below are some of my key projects showcasing my skills.
 
 ---
 
@@ -8,56 +8,50 @@ Welcome to my project portfolio! I’m a **Full Stack Web Developer** with solid
 
 ### 🛍️ [Velveta Online Store](https://github.com/eng-raghadsami/Velveta_online_store)
 
-An e-commerce platform built with **Laravel**, providing complete functionality for customers and administrators.
+An e-commerce platform built with **Laravel**, offering full features for customers and admins.
 
 **🔧 Key Features:**
-- Admin dashboard to manage products, categories, orders, and users
-- Authentication system (register/login)
-- Shopping cart with order flow
-- Payment status tracking and order history
+- Admin dashboard managing users, products, orders, and categories
+- User authentication system
+- Shopping cart and checkout process
+- Order tracking and payment management
 
 **🛠️ Stack:** Laravel, PHP, MySQL, Bootstrap
 
-**📸 Screenshots:**
-![Login](images/velveta-login.png)
-![Dashboard](images/velveta-dashboard.png)
-
-**🎥 Demo Video:** [Watch on Google Drive](https://drive.google.com/your-video-link)
+**📸 Screenshots:**  
+*Add your images here*
 
 ---
 
-### 📰 [NewsNest Website](https://github.com/eng-raghadsami/NewsNest)
+### 📰 [News Website](https://github.com/eng-raghadsami/news_website)
 
-A dynamic news website with categorized articles and featured news, including a backend panel for managing content.
+A dynamic news portal with categorized articles (Politics, Technology, Sports) and admin content management.
 
 **🔧 Key Features:**
-- Admin panel for article creation, editing, and categorization
-- Featured articles & recent updates section
-- Clean frontend layout with search functionality
+- Admin panel for managing articles and categories
+- Featured news section
+- Responsive frontend layout
 
 **🛠️ Stack:** PHP, MySQL, HTML, CSS, JavaScript
 
-**📸 Screenshots:**
-![News Home](images/news-home.png)
-![Article Page](images/news-article.png)
+**📸 Screenshots:**  
+*Add your images here*
 
 ---
 
-### 🚗 [Car Point](https://github.com/eng-raghadsami/CarPoint)
+### 🚗 [Car Point](https://github.com/eng-raghadsami/Car_Point)
 
-A web system for managing car listings and rentals.
+A car rental and listing platform with user-friendly dashboard and booking features.
 
 **🔧 Key Features:**
-- Admin dashboard for managing cars, bookings, and users
-- Public view to explore available cars
-- Car booking request form
-- Backend logic for car availability
+- Admin dashboard for managing car listings and bookings
+- User authentication and booking requests
+- Backend logic for availability and management
 
 **🛠️ Stack:** PHP, MySQL, HTML, CSS
 
-**📸 Screenshots:**
-![Car Listings](images/car-list.png)
-![Admin Panel](images/car-admin.png)
+**📸 Screenshots:**  
+*Add your images here*
 
 ---
 
@@ -66,8 +60,8 @@ A web system for managing car listings and rentals.
 - **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
 - **Frameworks:** Laravel, Bootstrap
 - **Databases:** MySQL
-- **Tools:** Git, GitHub, VS Code, XAMPP/WAMP
-- **Concepts:** CRUD operations, MVC pattern, RESTful APIs, Authentication, Admin Panels
+- **Tools:** Git, GitHub, VS Code, WAMP/XAMPP
+- **Concepts:** MVC pattern, CRUD operations, REST APIs, Authentication, Admin dashboards
 
 ---
 
@@ -78,4 +72,5 @@ A web system for managing car listings and rentals.
 
 ---
 
-Thanks for viewing my portfolio! Feel free to check out my projects or contact me for collaboration opportunities.
+Thank you for viewing my portfolio! Feel free to explore my projects or contact me for collaboration.
+
