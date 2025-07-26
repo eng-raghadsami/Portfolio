@@ -18,8 +18,7 @@ An e-commerce platform built with **Laravel**, offering full features for custom
 
 **🛠️ Stack:** Laravel, PHP, MySQL, Bootstrap
 
-**📸 Screenshots:**  
-*Add your images here*
+
 
 ---
 
@@ -34,8 +33,6 @@ A dynamic news portal with categorized articles (Politics, Technology, Sports) a
 
 **🛠️ Stack:** PHP, MySQL, HTML, CSS, JavaScript
 
-**📸 Screenshots:**  
-*Add your images here*
 
 ---
 
@@ -50,10 +47,7 @@ A car rental and listing platform with user-friendly dashboard and booking featu
 
 **🛠️ Stack:** PHP, MySQL, HTML, CSS
 
-**📸 Screenshots:**  
-*Add your images here*
-
----
+----
 
 ## 🧠 Technical Skills
 
