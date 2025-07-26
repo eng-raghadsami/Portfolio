@@ -57,7 +57,7 @@ A car rental and listing platform with user-friendly dashboard and booking featu
 
 ## 🧠 Technical Skills
 
-- **Languages:** PHP, JavaScript, HTML5, CSS3, SQL
+- **Languages:** Laravel, PHP, JavaScript, HTML5, CSS3, SQL
 - **Frameworks:** Laravel, Bootstrap
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, WAMP/XAMPP
@@ -67,7 +67,7 @@ A car rental and listing platform with user-friendly dashboard and booking featu
 
 ## 📫 Contact
 
-- 📧 Email: raghadsami@gmail.com  
+- 📧 Email: raghadsami.w@gmail.com  
 - 💻 GitHub: [github.com/eng-raghadsami](https://github.com/eng-raghadsami)
 
 ---
